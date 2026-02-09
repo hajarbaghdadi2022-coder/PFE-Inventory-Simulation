@@ -1,6 +1,6 @@
 # PFE – Inventory Simulation & Supply Policy Optimization
 
-## 🎓 Final Year Project (PFE)
+##  Final Year Project (PFE)
 
 This project focuses on the **analysis and optimization of inventory management policies**
 using **simulation and Monte Carlo methods**.
@@ -13,7 +13,7 @@ by minimizing total cost while ensuring a high service level.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 Industrial companies face frequent stock shortages or overstocking due to:
 - Demand variability
 - Lead time uncertainty
@@ -24,7 +24,7 @@ to identify optimal inventory parameters.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 - Data extraction from Excel
 - Demand preprocessing (daily demand)
 - Simulation of inventory policies (R,Q) and (T,S)
@@ -39,7 +39,7 @@ to identify optimal inventory parameters.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas, NumPy
 - SciPy
@@ -49,5 +49,6 @@ to identify optimal inventory parameters.
 ---
 
 ## 📂 Project Structure
+
 
 
