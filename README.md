@@ -46,9 +46,7 @@ to identify optimal inventory parameters.
 - Matplotlib
 - Jupyter Notebook
 
----
 
-## 📂 Project Structure
 
 
 
